@@ -1,3 +1,48 @@
+[[Unsio]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "09d179c6d3f61c6323af060595d85ca6872e7f28"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Unsio.download]]
+    sha256 = "1aef1b214df28e86ac77c0c7b4dd930c06e3d1bedd25807d97fbe1d8cbf3255e"
+    url = "https://github.com/vleugelcomplement/Unsio_jll/releases/download/Unsio-v1.0.1+0/Unsio.v1.0.1.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[Unsio]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8bfcd2e2583015d8439ddae7588bb70bb20a21d0"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Unsio.download]]
+    sha256 = "d2b2ae3786c417a9066c31773938c3770816a397d81b15f780f826955529ca4f"
+    url = "https://github.com/vleugelcomplement/Unsio_jll/releases/download/Unsio-v1.0.1+0/Unsio.v1.0.1.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[Unsio]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "982b27a97535d12b7ea75142c939133c800c6f42"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Unsio.download]]
+    sha256 = "aafe4cc280e2859f923fb1e1b1404e10e479709098e1d35a275d62ed5d0e9970"
+    url = "https://github.com/vleugelcomplement/Unsio_jll/releases/download/Unsio-v1.0.1+0/Unsio.v1.0.1.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[Unsio]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7812a05d565293bdebc3085c262eab33fcb6e4c5"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Unsio.download]]
+    sha256 = "7fa6fb0aaf7bc1865ee2f0d1bc5d7120a51c77315a285d19eaac25729feedd0f"
+    url = "https://github.com/vleugelcomplement/Unsio_jll/releases/download/Unsio-v1.0.1+0/Unsio.v1.0.1.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+
 [[unsio]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
