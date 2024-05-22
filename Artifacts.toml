@@ -85,5 +85,5 @@ libgfortran_version = "5.0.0"
 os = "linux"
 
     [[unsio.download]]
-    sha256 = "75f51ff0fc79df91ebd9b6e4d3b9e450f5982e0926b433d7ab32d3797a67ed0f"
+    sha256 = "4d6acf34d4a5066d0b8d71efd207d2d45eccf6ae1e93f46bd647c5f8633f2fbf"
     url = "https://github.com/vleugelcomplement/Unsio_jll/releases/download/Unsio-v1.0.1+0/Unsio.v1.0.1.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
